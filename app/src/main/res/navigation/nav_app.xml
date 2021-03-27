@@ -3,12 +3,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nav_app"
-    app:startDestination="@id/fragment_1">
+    app:startDestination="@id/fragment_splash_screen">
 
     <fragment
-        android:id="@+id/fragment_1"
-        android:name="com.vk_app.vkontakte.Fragment1"
-        android:label="Fragment1"
-        tools:layout="@layout/fragment_1"/>
+        android:id="@+id/fragment_splash_screen"
+        android:name="com.vk_app.vkontakte.FragmentSplash"
+        android:label="FragmentSplash"
+        tools:layout="@layout/fragment_splash_screen"/>
 
 </navigation>
