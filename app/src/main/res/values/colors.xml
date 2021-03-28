@@ -7,4 +7,34 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    
+    <color name="color_primary">#FF327FEB</color>
+    <color name="color_primary_80">#CC327FEB</color>
+    <color name="color_primary_60">#99327FEB</color>
+    <color name="color_primary_40">#66327FEB</color>
+    <color name="color_primary_20">#30327FEB</color>
+
+    <color name="color_dark">#FF383838</color>
+    <color name="color_dark_80">#CC383838</color>
+    <color name="color_dark_60">#99383838</color>
+    <color name="color_dark_40">#66383838</color>
+    <color name="color_dark_20">#30383838</color>
+
+    <color name="color_grey">#FFA9A9A9</color>
+    <color name="color_grey_80">#CCA9A9A9</color>
+    <color name="color_grey_60">#99A9A9A9</color>
+    <color name="color_grey_40">#66A9A9A9</color>
+    <color name="color_grey_20">#30A9A9A9</color>
+
+    <color name="color_success">#FF0AB97A</color>
+    <color name="color_success_80">#CC0AB97A</color>
+    <color name="color_success_60">#990AB97A</color>
+    <color name="color_success_40">#660AB97A</color>
+    <color name="color_success_20">#300AB97A</color>
+
+    <color name="color_error">#FFF31629</color>
+    <color name="color_error_80">#CCF31629</color>
+    <color name="color_error_60">#99F31629</color>
+    <color name="color_error_40">#66F31629</color>
+    <color name="color_error_20">#30F31629</color>
 </resources>
